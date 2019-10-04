@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MazeDisplayGraphics
+comment1.params=the_maze\ can
+comment1.target=void\ display(RectMaze,\ javafx.scene.canvas.Canvas)
+comment2.params=the_maze\ i\ j\ x\ y
+comment2.target=void\ displayLoc(RectMaze,\ int,\ int,\ double,\ double)
+numComments=3

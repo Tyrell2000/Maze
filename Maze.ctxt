@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Maze
+comment1.params=numRows\ numColumns\ maze
+comment1.target=Maze(int,\ int,\ Square[][])
+comment2.params=
+comment2.target=int\ getRows()
+comment3.params=
+comment3.target=int\ getColumns()
+comment4.params=
+comment4.target=void\ initStatic()
+comment5.params=
+comment5.target=void\ init()
+comment6.params=
+comment6.target=Square[][]\ getMaze()
+comment7.params=
+comment7.target=void\ display()
+numComments=8
